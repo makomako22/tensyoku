@@ -10,4 +10,3 @@ class Userform
     DesiredConditon.create(money: money, location: location, user_id: user.id)
   end
 end
-######
